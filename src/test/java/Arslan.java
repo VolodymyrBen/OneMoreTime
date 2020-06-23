@@ -1,5 +1,5 @@
 public class Arslan {
     public static void main(String[] args) {
-        System.out.println("udalyali udalyali");
+        System.out.println("neponimat'");
     }
 }
